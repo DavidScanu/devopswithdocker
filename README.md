@@ -7,6 +7,6 @@ This course provides an introduction to container technologies, with a particula
 
 ## Avancée 
 
-- https://devopswithdocker.com/part-1/section-1
-- https://devopswithdocker.com/part-1/section-2
+- https://devopswithdocker.com/part-1/section-1 ✔️
+- https://devopswithdocker.com/part-1/section-2 ✔️
 - https://devopswithdocker.com/part-1/section-3
